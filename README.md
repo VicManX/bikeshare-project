@@ -1,17 +1,25 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+### __Date created__
+Created Oct. 11th, 2022 by Victor Porras.
 
-### Date created
-Include the date you created this project and README file.
+### __Basic Data Exploration with pandas on Bikeshare Data__
+A Python project using pandas to explore bikeshare data.
 
-### Project Title
-Replace the Project Title
+### __Description__
+This project focuses on pandas library usage and simple statistics methods to perform descriptive analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
 
-### Description
-Describe what your project is about and what it does
+### __Files used__
 
-### Files used
-Include the files used
+* bikeshare.py
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### __Data used__
+* chicago.csv
+* new_york_city.csv
+* washintong.csv
+
+____
+
+### __Credits__
+* [Aritra96](https://github.com/Aritra96): Aritra96's repository helped.
+* [pandas docs](https://pandas.pydata.org/pandas-docs/stable/) - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project. 
+* [Udacity](https://www.udacity.com/) - Udacity's Data Analyst Nanodegree program and their instructors were extremely helpful while I was pursuing this project. 
 
