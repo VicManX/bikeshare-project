@@ -1,14 +1,14 @@
 ### __Date created__
-Created Oct. 11th, 2022 by Victor Porras.
+Created Oct 11th, 2022 by Felipe Carrillo.
 
 ### __Basic Data Exploration with pandas on Bikeshare Data__
 A Python project using pandas to explore bikeshare data.
+
 
 ### __Description__
 This project focuses on pandas library usage and simple statistics methods to perform descriptive analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
 
 ### __Files used__
-
 * bikeshare.py
 
 ### __Data used__
